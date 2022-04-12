@@ -1,0 +1,52 @@
+body {
+}
+
+.jumbotron {
+  padding-top: 20rem;
+}
+
+section {
+  padding-top: 4rem;
+}
+
+.bg-city > img {
+  width: 100% !important;
+  opacity: 0.7;
+  position: relative;
+  padding-top: 5rem;
+}
+
+.form {
+  background-color: #e4001c;
+  color: #ffffff;
+  height: 300px;
+  padding-bottom: 20px;
+}
+
+@media (max-width: 575.98px) {
+  .form {
+    height: 100% !important;
+  }
+
+  .jumbotron {
+    padding-top: 10rem !important;
+  }
+
+  .wave1 {
+    left: -70px !important;
+    z-index: -1 !important;
+  }
+
+  .wave3 {
+      left: -40px !important;
+  }
+
+}
+
+.footer .ul .li {
+  width: 100px;
+}
+
+.kaki {
+  text-align: center;
+}

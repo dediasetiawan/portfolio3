@@ -38,9 +38,8 @@ section {
   }
 
   .wave3 {
-      left: -40px !important;
+    left: -40px !important;
   }
-
 }
 
 .footer .ul .li {
@@ -48,5 +47,9 @@ section {
 }
 
 .kaki {
+  text-align: center;
+}
+
+.sponsor {
   text-align: center;
 }
